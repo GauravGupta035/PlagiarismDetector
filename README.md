@@ -14,4 +14,4 @@ _find\_article_ : For files related to article search.
 
 # Contributers
 
-[Gaurav Gupta][https://github.com/GauravGupta035]
+[Gaurav Gupta](https://github.com/GauravGupta035)
